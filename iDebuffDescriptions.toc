@@ -1,0 +1,10 @@
+## Interface: 70100
+## Title: iDebuffDescriptions
+## Notes: iDebuffDescriptions
+## Author: Ironi
+## Version: 1.0
+## DefaultState: enabled
+
+## SavedVariables: iDebuffDescriptionsDB
+
+iDebuffDescriptions.lua
